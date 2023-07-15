@@ -17,7 +17,9 @@
 - [【Navicat】](https://www.navicat.com.cn/)
 #### 前端常用工具网站
 - [【Can Iuse】.Scoped Styles: the @scope rule](https://caniuse.com/webp)
+- [【前端动效】.Visualization Collection](Visualization Collection）
 #### 开发框架
+- [【Vue】.渐进式JavaScript 框架](https://cn.vuejs.org/)
 - [【MPX】.增强型跨端小程序框架](https://mpxjs.cn/)
 - [【uniapp】.官网](https://www.dcloud.io/)
 - [【uniapp】.组件](https://uniapp.dcloud.net.cn/component/)
@@ -33,6 +35,10 @@
 - [【Admin Pro】](https://store.antdv.com/pro/preview/user/login?redirect=%252Fworkplace)
 - [【Admin Pro】](https://store.antdv.com/pro/preview/user/login?redirect=%252Fworkplace)
 - [【RuoYi】](https://doc.ruoyi.vip/ruoyi-vue/)
+- [【Cool】.一个项目用COOL就够了](https://cool-js.com/)
+- [【COOL-UNI】.属于开发人员的 UNI-APP 模板库](https://uni.cool-js.com/)
+- [【HEYUI】.基于Vue3.0的高质量UI组件库](https://v2.heyui.top/)
+
 #### 接口文档
 - [【Apifox 帮助文档】](https://apifox.com/help/app/web/browser-extension)
 - [【Apifox】](https://app.apifox.com/)
