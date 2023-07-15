@@ -17,7 +17,7 @@
 - [【Navicat】](https://www.navicat.com.cn/)
 #### 前端常用工具网站
 - [【Can Iuse】.Scoped Styles: the @scope rule](https://caniuse.com/webp)
-- [【前端动效】.Visualization Collection](Visualization Collection）
+- [【前端动效】.Visualization Collection](https://github.com/hepengwei/visualization-collection）
 #### 开发框架
 - [【Vue】.渐进式JavaScript 框架](https://cn.vuejs.org/)
 - [【MPX】.增强型跨端小程序框架](https://mpxjs.cn/)
