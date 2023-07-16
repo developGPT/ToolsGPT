@@ -58,4 +58,9 @@
 - [Nuxt3课程](https://tehub.com/)
 - [certification](https://certification.vuejs.org/)
 #### 后端框架
-- []()
+- [11个IDEA必备效率美化工具](https://juejin.cn/post/7239990044332720189)
+- [原来 GitHub 不仅能学代码，还有这些东西](https://juejin.cn/post/7168278806245933069)
+- [Windows上不可或缺的5款宝藏软件，工作效率拉满！](https://juejin.cn/post/7242596564396277816)
+- [ChatGPT-Admin-Web](https://caw.sku.moe/)
+- [推荐 6 个 火火火火 的开源项目](https://juejin.cn/post/7240690534075318309)
+- [Hono](https://hono.dev/middleware/third-party)
