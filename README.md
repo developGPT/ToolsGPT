@@ -17,7 +17,7 @@
 - [【Navicat】](https://www.navicat.com.cn/)
 #### 前端常用工具网站
 - [【Can Iuse】.Scoped Styles: the @scope rule](https://caniuse.com/webp)
-- [【前端动效】.Visualization Collection](https://github.com/hepengwei/visualization-collection）
+- [【前端动效】.Visualization Collection](https://github.com/hepengwei/visualization-collection)
 #### 开发框架
 - [【Vue】.渐进式JavaScript 框架](https://cn.vuejs.org/)
 - [【MPX】.增强型跨端小程序框架](https://mpxjs.cn/)
@@ -27,7 +27,7 @@
 - [【vant-weapp】.适用于Vue2](https://vant-contrib.gitee.io/vant-weapp/#/home)
 - [【Vant4】.适用于Vue3](https://vant-ui.github.io/vant/#/zh-CN)
 - [【Vant4】.适用于Vue3 Demo](https://github.com/vant-ui/vant-demo/tree/master/vant/vue3/src)
-- [【Vant4】.适用于Vue3 购物车]((https://vant-ui.github.io/vant-demo/#/goods))
+- [【Vant4】.适用于Vue3 购物车]((https://vant-ui.github.io/vant-demo/#/goods)
 - [【uView】.多平台快速开发的UI框架](https://www.uviewui.com/)
 - [【Ant Design of Vue】](https://1x.antdv.com/docs/vue/introduce-cn/)
 - [【 Surely Table】.高性能组件 Surely Vue](https://www.surely.cool/)
